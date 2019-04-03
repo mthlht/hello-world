@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello world. Here is my first editing with Github
